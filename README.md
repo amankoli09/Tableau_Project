@@ -1,4 +1,4 @@
-🚀 Tableau Project – Interactive Data Dashboard  
+# 🚀 Tableau Project – Interactive Data Dashboard  
 
 <p align="center">
   <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="170"/>
@@ -16,8 +16,9 @@
   <img src="https://img.shields.io/badge/Project-Dashboard-orange?style=for-the-badge">
 </p>
 
-<br>
-🌐 Live Website  
+<br><br>
+
+## 🌐 Live Website  
 
 👉 **Visit the live project:**  
 🔗 https://amankoli09.github.io/Tableau_Project/
@@ -73,3 +74,57 @@ Tableau_Project/
 ├── assets/           # Images, GIFs, resources
 │   └── preview.gif
 └── README.md         # Project documentation
+```
+<br><br>
+
+📚 What We Learned
+
+Designing dashboard-style layouts
+
+Improving UI alignment and spacing
+
+Hosting and deploying websites using GitHub Pages
+
+Working collaboratively as a team
+
+Writing professional project documentation
+
+<br><br>
+
+🚀 Future Enhancements
+
+Add interactive charts using JavaScript
+
+Integrate real datasets (CSV / JSON)
+
+Add animations and transitions
+
+Implement dark mode
+
+Improve accessibility
+
+<br><br>
+
+👥 Team Members
+
+This project was collaboratively built by a team of 4 developers.
+
+Name	Contribution
+Aman Koli	Frontend Development & Deployment
+Aditya Yadav	UI Structure & Layout
+Tanmay Sherkar	Styling & Visual Design
+Shubham Mane	Testing & Content Review
+
+<br><br>
+
+⭐ Support
+
+If you like this project:
+
+🌟 Star the repository
+
+🍴 Fork it
+
+🗣️ Share feedback
+
+Your support motivates us to build more 🚀
