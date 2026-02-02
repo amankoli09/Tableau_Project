@@ -1,4 +1,4 @@
-# 🚀 Tableau Project – Interactive Data Dashboard  
+<img width="1470" height="823" alt="Screenshot 2026-02-02 at 1 32 56 PM" src="https://github.com/user-attachments/assets/4a04a443-cc69-4af0-87dc-4320354d5352" /># 🚀 Tableau Project – Interactive Data Dashboard  
 
 <p align="center">
   <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="170"/>
@@ -36,11 +36,10 @@ The main focus of this project is on **clean UI design**, **dashboard-style layo
 ## 🎬 Project Preview  
 
 <p align="center">
-  <img src="assets/preview.gif" alt="Project Preview" width="85%">
+  <img width="1470" height="823" alt="Screenshot 2026-02-02 at 1 32 15 PM" src="https://github.com/user-attachments/assets/1428f5f0-6b1f-4327-ada2-d4e366ce8db0" />
+  <img width="1470" height="823" alt="Screenshot 2026-02-02 at 1 33 05 PM" src="https://github.com/user-attachments/assets/69ec1d65-08d5-42ca-aa08-7771386a5cc3" />
+  <img width="1470" height="823" alt="Screenshot 2026-02-02 at 1 34 27 PM" src="https://github.com/user-attachments/assets/c96f68a0-b405-468f-af6c-1fdaacbfab6e" />
 </p>
-
-📝 *Tip:* Record a short screen video → convert it to GIF → save it as  
-`assets/preview.gif`
 
 <br><br>
 
