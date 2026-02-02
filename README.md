@@ -16,45 +16,43 @@
   <img src="https://img.shields.io/badge/Project-Dashboard-orange?style=for-the-badge">
 </p>
 
----
+<br><br>
 
 ## 🌐 Live Website  
 
 👉 **Visit the live project:**  
 🔗 https://amankoli09.github.io/Tableau_Project/
 
----
+<br><br>
 
 ## 🧠 About the Project  
 
 This project is a **Tableau-inspired data visualization website** built to demonstrate how dashboards can present information in a **clear, structured, and visually engaging way**.
 
-The main focus of this project is on **clean UI design**, **dashboard-style layout**, and **professional presentation of data concepts** using core web technologies.
+The main focus of this project is on **clean UI design**, **dashboard-style layouts**, and **professional presentation of data concepts** using core web technologies.
 
----
+<br><br>
 
 ## 🎬 Project Preview  
-
-> 📌 Add screenshots or a GIF for better impact
 
 <p align="center">
   <img src="assets/preview.gif" alt="Project Preview" width="85%">
 </p>
 
-📝 *Tip:* Record a short screen video → convert to GIF → save as  
+📝 *Tip:* Record a short screen video → convert it to GIF → save it as  
 `assets/preview.gif`
 
----
+<br><br>
 
 ## ✨ Key Features  
 
-- ✔️ Dashboard-style UI inspired by Tableau  
-- ✔️ Clean and minimal layout  
-- ✔️ Responsive design  
-- ✔️ Deployed using GitHub Pages  
-- ✔️ Beginner-friendly project structure  
+- Dashboard-style UI inspired by Tableau  
+- Clean and minimal layout  
+- Responsive design  
+- Deployed using GitHub Pages  
+- Beginner-friendly project structure  
 
----
+<br><br>
 
 ## 🛠️ Tech Stack  
 
@@ -64,7 +62,7 @@ The main focus of this project is on **clean UI design**, **dashboard-style layo
   <img src="https://img.shields.io/badge/GitHub%20Pages-Hosting-222222?style=for-the-badge&logo=github">
 </p>
 
----
+<br><br>
 
 ## 📁 Project Structure  
 
