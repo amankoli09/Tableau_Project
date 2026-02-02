@@ -16,14 +16,13 @@
   <img src="https://img.shields.io/badge/Project-Dashboard-orange?style=for-the-badge">
 </p>
 
----
 
 ## 🌐 Live Website  
 
 👉 **Visit the live project:**  
 🔗 https://amankoli09.github.io/Tableau_Project/
 
----
+
 
 ## 🧠 About the Project  
 
@@ -31,7 +30,7 @@ This project is a **Tableau-inspired data visualization website** built to demon
 
 The main focus of this project is on **clean UI design**, **dashboard-style layout**, and **professional presentation of data concepts** using core web technologies.
 
----
+
 
 ## 🎬 Project Preview  
 
