@@ -1,13 +1,10 @@
 # 🚀 Tableau Project – Interactive Data Dashboard  
-
 <p align="center">
   <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="170"/>
 </p>
-
 <p align="center">
   <b>Turning data into clear, visual insights</b>
 </p>
-
 <p align="center">
   <a href="https://amankoli09.github.io/Tableau_Project/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-GitHub Pages-success?style=for-the-badge">
@@ -15,15 +12,9 @@
   <img src="https://img.shields.io/badge/Status-Deployed-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Project-Dashboard-orange?style=for-the-badge">
 </p>
-
-
 ## 🌐 Live Website  
-
 👉 **Visit the live project:**  
 🔗 https://amankoli09.github.io/Tableau_Project/
-
-
-
 ## 🧠 About the Project  
 
 This project is a **Tableau-inspired data visualization website** built to demonstrate how dashboards can present information in a **clear, structured, and visually engaging way**.
