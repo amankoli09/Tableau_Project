@@ -1,7 +1,7 @@
-<img width="1470" height="823" alt="Screenshot 2026-02-02 at 1 32 56 PM" src="https://github.com/user-attachments/assets/4a04a443-cc69-4af0-87dc-4320354d5352" /># 🚀 Tableau Project – Interactive Data Dashboard  
+# 🚀 Tableau Project – Interactive Data Dashboard  
 
 <p align="center">
-  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="170"/>
+  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="170" />
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://amankoli09.github.io/Tableau_Project/">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-GitHub Pages-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-GitHub Pages-success?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Deployed-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Project-Dashboard-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Deployed-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Dashboard-orange?style=for-the-badge" />
 </p>
 
 <br><br>
@@ -29,16 +29,18 @@
 
 This project is a **Tableau-inspired data visualization website** built to demonstrate how dashboards can present information in a **clear, structured, and visually engaging way**.
 
-The main focus of this project is on **clean UI design**, **dashboard-style layouts**, and **professional presentation of data concepts** using core web technologies.
+The primary focus is on **clean UI design**, **dashboard-style layouts**, and **professional presentation of data concepts** using core web technologies.
 
 <br><br>
 
 ## 🎬 Project Preview  
 
 <p align="center">
-  <img width="1470" height="823" alt="Screenshot 2026-02-02 at 1 32 15 PM" src="https://github.com/user-attachments/assets/1428f5f0-6b1f-4327-ada2-d4e366ce8db0" />
-  <img width="1470" height="823" alt="Screenshot 2026-02-02 at 1 33 05 PM" src="https://github.com/user-attachments/assets/69ec1d65-08d5-42ca-aa08-7771386a5cc3" />
-  <img width="1470" height="823" alt="Screenshot 2026-02-02 at 1 34 27 PM" src="https://github.com/user-attachments/assets/c96f68a0-b405-468f-af6c-1fdaacbfab6e" />
+  <img src="https://github.com/user-attachments/assets/1428f5f0-6b1f-4327-ada2-d4e366ce8db0" width="90%" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/69ec1d65-08d5-42ca-aa08-7771386a5cc3" width="90%" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/c96f68a0-b405-468f-af6c-1fdaacbfab6e" width="90%" />
 </p>
 
 <br><br>
@@ -46,19 +48,19 @@ The main focus of this project is on **clean UI design**, **dashboard-style layo
 ## ✨ Key Features  
 
 - Dashboard-style UI inspired by Tableau  
-- Clean and minimal layout  
-- Responsive design  
+- Clean and minimal visual layout  
+- Fully responsive design  
 - Deployed using GitHub Pages  
-- Beginner-friendly project structure  
+- Beginner-friendly and well-structured code  
 
 <br><br>
 
 ## 🛠️ Tech Stack  
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-Hosting-222222?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Hosting-222222?style=for-the-badge&logo=github" />
 </p>
 
 <br><br>
@@ -70,8 +72,7 @@ Tableau_Project/
 │
 ├── index.html        # Main dashboard page
 ├── style.css         # Styling and layout
-├── assets/           # Images, GIFs, resources
-│   └── preview.gif
+├── assets/           # Images and resources
 └── README.md         # Project documentation
 ```
 <br><br>
@@ -84,9 +85,9 @@ Improving UI alignment and spacing
 
 Hosting and deploying websites using GitHub Pages
 
-Working collaboratively as a team
+Collaborating effectively in a team
 
-Writing professional project documentation
+Writing clean and professional documentation
 
 <br><br>
 
@@ -96,7 +97,7 @@ Add interactive charts using JavaScript
 
 Integrate real datasets (CSV / JSON)
 
-Add animations and transitions
+Add animations and smooth transitions
 
 Implement dark mode
 
