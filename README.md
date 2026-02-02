@@ -103,19 +103,21 @@ Implement dark mode
 
 Improve accessibility
 
-<br><br>
+<br>
 
 👥 Team Members
 
 This project was collaboratively built by a team of 4 developers.
+<br>
+Aman Koli	
+<br>
+Aditya Yadav
+<br>
+Tanmay Sherkar
+<br>
+Shubham Mane	
 
-Name	Contribution
-Aman Koli	Frontend Development & Deployment
-Aditya Yadav	UI Structure & Layout
-Tanmay Sherkar	Styling & Visual Design
-Shubham Mane	Testing & Content Review
-
-<br><br>
+<br>
 
 ⭐ Support
 
