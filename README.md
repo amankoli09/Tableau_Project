@@ -1,4 +1,4 @@
-# 🚀 Tableau Project – Interactive Data Dashboard  
+🚀 Tableau Project – Interactive Data Dashboard  
 
 <p align="center">
   <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="170"/>
@@ -17,7 +17,7 @@
 </p>
 
 <br>
-## 🌐 Live Website  
+🌐 Live Website  
 
 👉 **Visit the live project:**  
 🔗 https://amankoli09.github.io/Tableau_Project/
