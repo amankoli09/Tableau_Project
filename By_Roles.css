@@ -85,7 +85,7 @@ body {
     background-color:#0e78d5;
     color: white;
     border: none;
-    padding: 10px 28px;
+    padding: 15px 28px;
     border-radius: 4px;
     font-size: 15px;
     cursor: pointer;
@@ -472,8 +472,50 @@ body {
     text-decoration: none; 
 }
 
-.has-dropdown:hover .dropdown {
+.menu-dropdown:hover .dropdown {
     display: block;
+}
+.submenu {
+    position: relative;
+}
+
+.dropdown-sub {
+    position: absolute;
+    top: 0;
+    left: 100%;
+
+    background: #ffffff;
+    list-style: none;
+    padding: 10px 0;
+    min-width: 240px;
+
+    display: none;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    z-index: 3000;
+}
+
+.dropdown-sub li a {
+    display: block;
+    padding: 8px 20px;
+    font-size: 14px;
+    color: #032d60;
+    white-space: nowrap;
+}
+
+.submenu:hover .dropdown-sub {
+    display: block;
+}
+.menu-dropdown:hover .dropdown {
+    display: block;
+}
+
+.header {
+    position: relative;
+    z-index: 1000;
+}
+
+.dropdown {
+    z-index: 2000;
 }
 
 /* Ensure header is above other content */
