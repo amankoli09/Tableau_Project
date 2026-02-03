@@ -7,86 +7,160 @@
     <link rel="stylesheet" href="By_Roles.css">
 </head>
 <body>
-    <header class="header">
+
+<header class="header">
 
 
     <div class="header-top">
-      <div class="header-container">
-        <div class="logo">
-          <a href="index.html"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg"
-              alt="Tableau Logo"></a>
-        </div>
+        <div class="header-container">
+            <div class="logo">
+                <a href="index.html"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="Tableau Logo"></a>
+            </div>
 
-        <div class="top-links">
-          <a href="#">Contact Us</a>
-          <a href="#">1-800-270-6977</a>
-          <a href="#">Sign In</a>
+            <div class="top-links">
+                <a href="#">Contact Us</a>
+                <a href="#">1-800-270-6977</a>
+                <a href="#">Sign In</a>
+            </div>
         </div>
-      </div>
     </div>
 
 
     <div class="header-bottom">
-      <div class="header-container">
+        <div class="header-container">
 
-        <ul class="menu">
-          <li class="has-dropdown">
-            <a href="#">Products</a>
-            <ul class="dropdown">
-              <li><a href="tableau_products_overview.html">Overview</a></li>
-              <li><a href="tableau-next.html">Tableau Next</a></li>
-              <li><a href="tableau-cloud.html">Tableau Cloud</a></li>
-              <li><a href="tableau-server.html">Tableau Server</a></li>
-              <li><a href="tableau-desktop.html">Tableau Desktop</a></li>
-              <li><a href="latest-update-tableau.html">Latest release</a></li>
-            </ul>
-          </li>
+<ul class="menu">
+<li class="menu-dropdown">
+  <a href="tableau_products_overview.html">Products</a>
 
-          <li class="has-dropdown">
-            <a href="#">Customers</a>
-            <ul class="dropdown">
-              <li><a href="customer-stories.html">Customer Stories</a></li>
-              <li><a href="community-story.html">Community Stories</a></li>
-            </ul>
-          </li>
+  <ul class="dropdown">
+    <li><a href="tableau_products_overview.html">Overview</a></li>
 
-          <li class="has-dropdown">
-            <a href="#">Solutions</a>
-            <ul class="dropdown">
-              <li><a href="industry.html">By Industry</a></li>
-              <li><a href="By_Roles.html">By Role</a></li>
-              <li><a href="technologies.html">By Technology</a></li>
-            </ul>
-          </li>
+    <li class="submenu">
+      <a href="tableau-next.html">Tableau Next ▸</a>
+      <ul class="dropdown-sub">
+        <li><a href="tableau-semantics.html">Tableau Semantics</a></li>
+      </ul>
+    </li>
 
-          <li class="has-dropdown">
-            <a href="#">Resources</a>
-            <ul class="dropdown">
-              <li><a href="Getting-started.html">Getting Started</a></li>
-              <li><a href="Learn-tableau.html">Learn Tableau</a></li>
-              <li><a href="#">Community</a></li>
-              <li><a href="#">Blog</a></li>
-            </ul>
-          </li>
+    <li><a href="tableau-cloud.html">Tableau Cloud</a></li>
+    <li><a href="tableau-server.html">Tableau Server</a></li>
+    <li><a href="tableau-desktop.html">Tableau Desktop</a></li>
+    <li><a href="latest-update-tableau.html">Latest release</a></li>
+  </ul>
+</li>
 
-          <li class="has-dropdown">
-            <a href="#">Pricing</a>
-            <ul class="dropdown">
-              <li><a href="#">Pricing Calculator</a></li>
-              <li><a href="#">Buy Tableau+</a></li>
-            </ul>
-          </li>
+<!--This is the dropdown  for the coustomer page-->
+    <li class="menu-dropdown">
+        <a href="customer-stories.html">Customers</a>
+        <ul class="dropdown">
+            <li><a href="customer-stories.html">Customer Stories</a></li>
+            <li><a href="community-story.html">Community Stories</a></li>
         </ul>
+    </li>
 
-        <div class="actions">
-          <a href=""><button class="btn-primary">Contact sales</button></a>
-          <a href="Start-free.html"><button class="btn-outline">Start for free</button></a>
+<!--This is the dropdown inside dropdwn for the Solution page-->
+
+<li class="menu-dropdown">
+    <a href="#">Solutions</a>
+    <ul class="dropdown">
+
+        <li class="submenu">
+            <a href="industry.html">By Industry ▸</a>
+            <ul class="dropdown-sub">
+                <li><a href="#">Financial Services</a></li>
+                <li><a href="#">Healthcare & Life Sciences</a></li>
+                <li><a href="#">Public Sector</a></li>
+                <li><a href="#">Retail & Consumer Goods</a></li>
+                <li><a href="#">Communications & Media</a></li>
+                <li><a href="#">Manufacturing</a></li>
+            </ul>
+        </li>
+        <li class="submenu">
+            <a href="By_Roles.html">By Role ▸</a>
+            <ul class="dropdown-sub">
+                <li><a href="#">Business Leader</a></li>
+                <li><a href="#">Data and IT Leader</a></li>
+                <li><a href="#">Analyst</a></li>
+                <li><a href="#">Developer</a></li>
+                <li><a href="#">Marketing</a></li>
+                <li><a href="#">Finance</a></li>
+                <li><a href="#">Sales</a></li>
+                <li><a href="#">Support & Service</a></li>
+            </ul>
+        </li>
+
+        <li class="submenu">
+            <a href="technologies.html">By Technology ▸</a>
+            <ul class="dropdown-sub">
+                <li><a href="#">Cloud Analytics</a></li>
+                <li><a href="#">Embedded Analytics</a></li>
+                <li><a href="#">AI & ML</a></li>
+            </ul>
+        </li>
+
+        <li class="submenu">
+            <a href="#">Tableau Exchange ▸</a>
+            <ul class="dropdown-sub">
+                <li><a href="#">Accelerators</a></li>
+            </ul>
+        </li>
+
+        <li><a href="#">Dashboard Showcase</a></li>
+
+    </ul>
+</li>
+
+<!--This is the dropdown inside dropdwn for the resources page-->
+
+<li class="menu-dropdown">
+    <a href="#">Resources</a>
+    <ul class="dropdown">
+
+        <li><a href="Getting-started.html">Getting Started</a></li>
+
+       
+        <li class="submenu">
+            <a href="Learn-tableau.html">Learn Tableau ▸</a>
+            <ul class="dropdown-sub">
+                <li><a href="#">Webinars</a></li>
+                <li><a href="#">Whitepapers</a></li>
+                <li><a href="#">Articles</a></li>
+                <li><a href="#">Free Training Videos</a></li>
+                <li><a href="#">Build Data Literacy</a></li>
+                <li><a href="#">Instructor-led Training</a></li>
+                <li><a href="#">Tableau eLearning</a></li>
+                <li><a href="#">Academic Programs</a></li>
+            </ul>
+        </li>
+
+        <li><a href="#">Community</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Events</a></li>
+        <li><a href="#">Support</a></li>
+        <li><a href="#">Tableau Help</a></li>
+        <li><a href="#">Trailhead</a></li>
+
+    </ul>
+</li>
+
+    <li class="menu-dropdown">
+        <a href="#">Pricing</a>
+        <ul class="dropdown">
+            <li><a href="#">Pricing Calculator</a></li>
+            <li><a href="#">Buy Tableau+</a></li>
+        </ul>
+    </li>
+</ul>
+
+            <div class="actions">
+                <a href=""><button class="btn-primary">Contact sales</button></a>
+                <a href="Start-free.html"><button class="btn-outline">Start for free</button></a>
+            </div>
+
         </div>
-
-      </div>
     </div>
-
-  </header>
+</header>   
     <section class="hero-section">
         <h1>Data, analytics, and trusted AI for everyone</h1>
         <p class="hero-subtitle">Make data-driven decisions across your organization, no matter who you are.</p>
