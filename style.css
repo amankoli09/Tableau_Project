@@ -83,16 +83,18 @@
     
 }
 
-.btn-outline {
+
+.blue-outline {
     background-color: transparent;
     color: #0e78d5;
     border: 2px solid#0e78d5;
     font-size: 15px;
     font-weight: bold;
-    padding: 12px 20px;
+    padding: 16px 22px;
     border-radius: 4px;
     cursor: pointer;
 }
+
 
 .menu li {
     position: relative;
