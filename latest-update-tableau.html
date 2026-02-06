@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <title>Latest Update | Tableau</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="latest-update-tableau.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
+
 <body>
   <header class="header">
 
@@ -53,9 +56,9 @@
           <li class="has-dropdown">
             <a href="#">Solutions</a>
             <ul class="dropdown">
-              <li><a href="industry.html">By Industry</a></li>
-              <li><a href="By_Roles.html">By Role</a></li>
-              <li><a href="technologies.html">By Technology</a></li>
+              <li><a href="#">By Industry</a></li>
+              <li><a href="#">By Role</a></li>
+              <li><a href="#">By Technology</a></li>
             </ul>
           </li>
 
@@ -79,7 +82,7 @@
         </ul>
 
         <div class="actions">
-          <a href=""><button class="btn-primary">Contact sales</button></a>
+          <button class="btn-primary">Contact sales</button>
           <a href="Start-free.html"><button class="btn-outline">Start for free</button></a>
         </div>
 
@@ -139,65 +142,131 @@
     <h2 class="section-title">All Features</h2>
 
     <div class="grid-3">
-      <div class="card"><h4>Custom Domains</h4><p>Use your own branded domain for secure access.</p></div>
-      <div class="card"><h4>Platform Data API</h4><p>Access activity and events programmatically.</p></div>
-      <div class="card"><h4>Configure SAML via REST API</h4><p>Programmatically manage authentication.</p></div>
-      <div class="card"><h4>User Attribute Function</h4><p>Dynamic user attributes for SAML and OIDC.</p></div>
-      <div class="card"><h4>Prep: Write to Databricks</h4><p>Send Prep flows directly to Databricks.</p></div>
-      <div class="card"><h4>Viz Extension Improvements</h4><p>More control for Sankey and table extensions.</p></div>
+      <div class="card">
+        <h4>Custom Domains</h4>
+        <p>Use your own branded domain for secure access.</p>
+      </div>
+      <div class="card">
+        <h4>Platform Data API</h4>
+        <p>Access activity and events programmatically.</p>
+      </div>
+      <div class="card">
+        <h4>Configure SAML via REST API</h4>
+        <p>Programmatically manage authentication.</p>
+      </div>
+      <div class="card">
+        <h4>User Attribute Function</h4>
+        <p>Dynamic user attributes for SAML and OIDC.</p>
+      </div>
+      <div class="card">
+        <h4>Prep: Write to Databricks</h4>
+        <p>Send Prep flows directly to Databricks.</p>
+      </div>
+      <div class="card">
+        <h4>Viz Extension Improvements</h4>
+        <p>More control for Sankey and table extensions.</p>
+      </div>
     </div>
   </section>
   <footer class="footer">
-  <div class="footer-container">
+    <div class="footer-container">
 
-    <div class="footer-brand">
-      <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="Tableau logo">
-      <button class="footer-btn">Try for free</button>
+      <div class="footer-brand">
+        <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="Tableau logo">
+        <button class="footer-btn">Try for free</button>
+      </div>
+
+      <div class="footer-links">
+
+        <div class="footer-col">
+          <h4>What is Tableau?</h4>
+          <a href="#">Agentic Analytics</a>
+          <a href="#">Build a Data Culture</a>
+          <a href="#">Data Analytics Insights</a>
+          <a href="#">Tableau Research</a>
+          <a href="#">Contact Us</a>
+        </div>
+
+        <div class="footer-col">
+          <h4>Tableau Community</h4>
+          <a href="#">Tableau Public</a>
+          <a href="#">Tableau User Groups</a>
+          <a href="#">Community Leaders</a>
+          <a href="#">DataDev</a>
+          <a href="#">Community Projects</a>
+          <a href="#">Academic Programs</a>
+          <a href="#">Events</a>
+        </div>
+
+        <div class="footer-col">
+          <h4>Partners</h4>
+          <a href="#">Find a partner</a>
+          <a href="#">Become a partner</a>
+        </div>
+
+        <div class="footer-col">
+          <h4>Support</h4>
+          <a href="#">Knowledge Base</a>
+          <a href="#">Learning and Certification</a>
+          <a href="#">Tableau Help</a>
+          <a href="#">All Releases</a>
+        </div>
+      </div>
     </div>
-
-    <div class="footer-links">
-
-      <div class="footer-col">
-        <h4>What is Tableau?</h4>
-        <a href="#">Agentic Analytics</a>
-        <a href="#">Build a Data Culture</a>
-        <a href="#">Data Analytics Insights</a>
-        <a href="#">Tableau Research</a>
-        <a href="#">Contact Us</a>
-      </div>
-
-      <div class="footer-col">
-        <h4>Tableau Community</h4>
-        <a href="#">Tableau Public</a>
-        <a href="#">Tableau User Groups</a>
-        <a href="#">Community Leaders</a>
-        <a href="#">DataDev</a>
-        <a href="#">Community Projects</a>
-        <a href="#">Academic Programs</a>
-        <a href="#">Events</a>
-      </div>
-
-      <div class="footer-col">
-        <h4>Partners</h4>
-        <a href="#">Find a partner</a>
-        <a href="#">Become a partner</a>
-      </div>
-
-      <div class="footer-col">
-        <h4>Support</h4>
-        <a href="#">Knowledge Base</a>
-        <a href="#">Learning and Certification</a>
-        <a href="#">Tableau Help</a>
-        <a href="#">All Releases</a>
-      </div>
-    </div>
-  </div>
-</footer>
-<footer>
+  </footer>
+  <footer>
     <div class="last-footer">
 
     </div>
+  </footer>
+<!--Very last footer-->
+
+<footer class="last-footer">
+  <div class="last-footer-top">
+    <div class="last-top-left">
+      <select class="lang-select">
+        <option>English (US)</option>
+      </select>
+
+      <a href="#">Trust</a>
+      <a href="#">Blog</a>
+      <a href="#">Developer</a>
+      <a href="#">Contact Us</a>
+    </div>
+
+    <div class="last-top-right">
+      <a href="#" aria-label="LinkedIn">
+        <i class="fa-brands fa-linkedin-in"></i>
+      </a>
+      <a href="#" aria-label="Facebook">
+        <i class="fa-brands fa-facebook-f"></i>
+      </a>
+      <a href="#" aria-label="X (Twitter)">
+        <i class="fa-brands fa-x-twitter"></i>
+      </a>
+    </div>
+  </div>
+
+  <div class="last-footer-bottom">
+    <div class="last-bottom-left">
+      <a href="#">Legal</a>
+      <a href="#">Terms Of Service</a>
+      <a href="#">Privacy Information</a>
+      <a href="#">Responsible Disclosure</a>
+      <a href="#">Cookie Preferences</a>
+      <a href="#" class="privacy-choice">Your Privacy Choices</a>
+    </div>
+
+    <div class="last-bottom-right">
+      © Copyright 2026 Salesforce, Inc. All rights reserved.
+      Various trademarks held by their respective owners.
+      Salesforce, Inc. Salesforce Tower, 415 Mission Street,
+      3rd Floor, San Francisco, CA 94105, United States
+    </div>
+  </div>
 </footer>
 
+
 </body>
+
 </html>
