@@ -21,7 +21,7 @@
 ## 🌐 Live Website  
 
 👉 **Visit the live project:**  
-🔗 https://amankoli09.github.io/Tableau_Project/
+🔗 https://6989cafcddbc2ae64913afa7--tableaurep.netlify.app/
 
 <br><br>
 
