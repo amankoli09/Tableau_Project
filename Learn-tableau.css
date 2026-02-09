@@ -118,7 +118,40 @@
     font-size: 14px;
 }
 
-.has-dropdown:hover .dropdown {
+/* CSS for the submenu dropdown */
+
+.submenu {
+    position: relative;
+}
+
+.dropdown-sub {
+    position: absolute;
+    top: 0;
+    left: 100%;
+
+    background: #ffffff;
+    list-style: none;
+    padding: 10px 0;
+    min-width: 240px;
+
+    display: none;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    z-index: 3000;
+}
+
+.dropdown-sub li a {
+    display: block;
+    padding: 8px 20px;
+    font-size: 14px;
+    color: #032d60;
+    white-space: nowrap;
+}
+
+.submenu:hover .dropdown-sub {
+    display: block;
+}
+
+.menu-dropdown:hover .dropdown {
     display: block;
 }
 
